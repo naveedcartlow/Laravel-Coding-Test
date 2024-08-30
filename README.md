@@ -18,5 +18,5 @@ Add some command and seed files for dummny data. You can run following command f
   - php artisan dummy:data
 I have update default route with listing. You can using following links for different layouts
   - http://127.0.0.1:8000/
-  - http://127.0.0.1:8000/lising
+  - http://127.0.0.1:8000/listing
 
